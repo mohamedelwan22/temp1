@@ -2,6 +2,10 @@ a{
     font-size: xx-large;
     color: rgb(9, 255, 0);
 }
+div{
+    font-size: xx-large;
+    color: coral;
+}
 body{
     background-color: rgb(3, 41, 48);   
 }
