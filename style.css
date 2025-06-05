@@ -6,6 +6,9 @@ div{
     font-size: xx-large;
     color: coral;
 }
+h1{
+    color: rgb(255, 0, 179);
+}
 body{
-    background-color: rgb(3, 41, 48);   
+    background-color: rgb(229, 255, 0);   
 }
